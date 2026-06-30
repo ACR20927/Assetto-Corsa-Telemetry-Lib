@@ -1,5 +1,5 @@
 # Assetto-Corsa-Telemetry-Lib
-用于实时获取Assetto Corsa遥测数据的c++库,只是把读取共享内存的方法简单封装了一下
+基于读取共享内存实时获取Assetto Corsa遥测数据的c++库,只是简单封装了一下
 # 样例
 ```cpp
 #include <iostream>
